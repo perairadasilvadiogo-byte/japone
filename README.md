@@ -1,5 +1,5 @@
-# japone
-
+# eu sou o japone
+oiiii!! tudo bem 
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=codeforces" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Baseado_em-Brasil-green?style=for-the-badge&logo=brazil" alt="Brasil" />
