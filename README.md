@@ -1,47 +1,60 @@
 # japone
-# Olá, eu sou o [japonês] 👋
+# Olá, eu sou o [japonês]! 👋
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue&style=flat-square" alt="contador de visitas" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=codeforces" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Baseado_em-Brasil-green?style=for-the-badge&logo=brazil" alt="Brasil" />
+</p>
 
-Sou um **Desenvolvedor [Seu Cargo/Área, ex: Full Stack / Frontend]** apaixonado por criar soluções eficientes e aprender novas tecnologias. Atualmente, foco meus estudos em ecossistemas modernos de desenvolvimento.
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente estou trabalhando em: **[Seu Projeto Atual]**
-- 🌱 Estou aprendendo: **[Tecnologia que está estudando]**
-- ⚡ Curiosidade: **[Um fato divertido sobre você, ex: Café é meu combustível principal ☕]**
+Sou um desenvolvedor apaixonado por transformar ideias em soluções digitais eficientes e escaláveis. Gosto de resolver problemas complexos, aprender novas tecnologias e colaborar em projetos inovadores.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-<div align="left">
-  <!-- Substitua pelos ícones das suas stacks principais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-</div>
+Aqui estão algumas das principais tecnologias com as quais trabalho no dia a dia:
+
+### **Linguagens e Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### **Banco de Dados e DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+</p>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+<p align="left">
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
+
+
+
+  
 
