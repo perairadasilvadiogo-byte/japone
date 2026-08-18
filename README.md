@@ -1,9 +1,7 @@
 #japone
-# Oii! Tudo bem? 👋
+# Oiiiii! Tudo bem? 👋
 
-<p align="center">
-  <img src="./nome-da-sua-imagem.png" alt="Banner Perfil" width="100%" />
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=codeforces" alt="Full Stack Developer" />
