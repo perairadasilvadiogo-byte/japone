@@ -1,5 +1,4 @@
 # japone
-# Olá, eu sou o [japonês]! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=codeforces" alt="Full Stack Developer" />
@@ -32,13 +31,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
 
-## <p align="center">
-  <img src="./nome-do-arquivo.png" alt="Diogo - Full Stack Developer" width="100%" />
-</p>
-
----
 
 ## 📫 Como me encontrar
 
