@@ -34,11 +34,8 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas" />
+## <p align="center">
+  <img src="./nome-do-arquivo.png" alt="Diogo - Full Stack Developer" width="100%" />
 </p>
 
 ---
