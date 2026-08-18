@@ -1,5 +1,10 @@
-# eu sou o japone
-oiiii!! tudo bem 
+#japone
+# Oii! Tudo bem? 👋
+
+<p align="center">
+  <img src="./nome-da-sua-imagem.png" alt="Banner Perfil" width="100%" />
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=codeforces" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Baseado_em-Brasil-green?style=for-the-badge&logo=brazil" alt="Brasil" />
@@ -31,7 +36,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
+---
 
 ## 📫 Como me encontrar
 
@@ -43,8 +48,3 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
-
-
-
-  
-
